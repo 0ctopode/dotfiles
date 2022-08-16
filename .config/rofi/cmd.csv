@@ -1,0 +1,2 @@
+screenshot,$HOME/.scripts/screenshot.sh
+selectScreenshot,$HOME/.scripts/screenshotSelect.sh
