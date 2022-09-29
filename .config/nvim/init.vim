@@ -1,5 +1,4 @@
 set number
-set relativenumber
 set autoindent
 set hlsearch  " Highlight search results
 set mouse=a  " Mouse scrolling 
