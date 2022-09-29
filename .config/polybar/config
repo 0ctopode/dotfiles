@@ -61,7 +61,7 @@ font-3 = NotoSansMono Nerd Font:pixelsize=14;1
 
 modules-left = jgmenu
 modules-center = date
-modules-right = filesystem cpu i3
+modules-right = i3
 
 tray-position = left
 tray-padding = 5
